@@ -150,7 +150,7 @@ for (const [name, description] of channels) {
 
 ### Evenements
 - `#meetup` - Discussions autour des différents meetup.
-- `#weektalk` - Infos sur les prochains [weektalks](https://github.com/ES-Community/weektalk).
+- `#wetalk` - Infos sur les prochains [wetalks](https://github.com/ES-Community/wetalk).
 - `#insomni-hack` - Discussions au sujet de [l'insomni-hack](https://insomnihack.ch).
 - `#ludum-dare` - Discussions au sujet de [Ludum Dare](https://ldjam.com/events/ludum-dare/rules).
 - `#advent-of-code` - Discussions au sujet de [l'advent of code](https://adventofcode.com/)
